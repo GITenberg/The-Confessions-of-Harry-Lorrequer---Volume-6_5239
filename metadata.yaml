@@ -1,5 +1,5 @@
 _repo: The-Confessions-of-Harry-Lorrequer---Volume-6_5239
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Browne, Hablot Knight
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '24934'
     url: http://www.gutenberg.org/2009/agents/24934
     wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
+covers:
+- cover_type: archival
+  image_path: 5239-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Lever, Charles James
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1744
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5239#The-Confessions-of-Harry-Lorrequer---Volume-6
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
